@@ -115,19 +115,19 @@ const musics = [
         id: 1,
         title: 'Running',
         file: 'running.mp3',
-        image: '/IMG/Start-up1.jpg'
+        image: 'https://go-korea.com/wp-content/uploads/2020/12/Start-Up-CP1-716x1024.jpg'
     },
     { 
         id: 2,
         title: 'Future',
         file: 'future.mp3',
-        image: '/IMG/Start-up2.jpg'
+        image: 'https://go-korea.com/wp-content/uploads/2020/12/start-up-696x995-1.jpg'
     },
     { 
         id: 3,
         title: 'One day',
         file: 'oneday.mp3',
-        image: '/IMG/Start-up3.jpg'
+        image: 'https://www.elle.vn/wp-content/uploads/2020/10/28/421200/Suzy-mac-trang-phuc-cong-so-trong-phim-start-up.jpg'
     },
 ]
 function init(indexSong) {
